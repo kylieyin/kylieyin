@@ -1,4 +1,4 @@
-### Hey I'm Kylie 👋
+### Hey I'm Kylie 🎀
 
 - 🔭 I’m currently exploring web dev and UX/UI design
 - 🌱 I’m currently learning JS and C# through Odin Project + Microsoft Learn
