@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     Hi! I'm Kylie <img src="https://github.com/kylieyin/kylieyin/assets/122772682/d942f61f-4376-45d1-81b7-4bd7d1f7f009" width="25" height="25"/>
-    <br>Thanks for stopping by
+    <br>Thanks for stopping by<br>
       <br>Currently exploring web<br>dev and UX / UI design
     <br>Learning JS and C# at the mo<br><br>
     <img src="https://github.com/kylieyin/kylieyin/blob/main/pcqrGqRXi.gif" width="400px"/>
