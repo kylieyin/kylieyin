@@ -7,6 +7,6 @@
       <br>Exploring web dev<br>and UX / UI design<br>
     <br>Learning JS and C# at the mo<br><br>
     <img src="https://github.com/kylieyin/kylieyin/blob/main/pcqrGqRXi.gif" width="400px"/>
-    <br><br>:coffee: Wanna chat? Connect with me on <a href="https://www.linkedin.com/in/kylie-yin/">LinkedIn !</a>
+    <br><br>:coffee: Wanna chat? Connect with me on <a href="https://www.linkedin.com/in/kylie-yin/">LinkedIn</a>!
   </samp>
 </p>
