@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://clipart-library.com/images/pcqrGqRXi.gif" width="27px">
+  <img src="http://clipart-library.com/images/pcqrGqRXi.gif" width="100px">
   <br><br>
   <samp>
     :wave: Hi! I'm Kylie <img src="https://github.com/kylieyin/kylieyin/assets/122772682/d942f61f-4376-45d1-81b7-4bd7d1f7f009" width="25" height="25"/>
