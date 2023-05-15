@@ -1,4 +1,4 @@
-### Hi there, I'm Kylie ![68747470733a2f2f6d656469612e74656e6f722e636f6d2f4d644939625474374e4d6741414141692f676f6f642d6576656e696e672d68616e642d776176652e676966](https://github.com/kylieyin/kylieyin/assets/122772682/d942f61f-4376-45d1-81b7-4bd7d1f7f009)
+### Hi there, I'm Kylie <img src="https://github.com/kylieyin/kylieyin/assets/122772682/d942f61f-4376-45d1-81b7-4bd7d1f7f009" width="10" height="10"/>
 
 - 🔭 I’m currently exploring web dev and UX/UI design
 - 🌱 I’m currently learning JS and C# through Odin Project + Microsoft Learn
