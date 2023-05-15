@@ -6,9 +6,7 @@
     <br>Thanks for stopping by
       <br>I'm exploring web dev and UX / UI design
     <br>I'm currently learning JS and C#<br><br>
-    
-      <img src="https://github.com/kylieyin/kylieyin/blob/main/pcqrGqRXi.gif" width="200px"/>
-
+    <img src="https://github.com/kylieyin/kylieyin/blob/main/pcqrGqRXi.gif" width="200px"/>
     <br><br>:coffee: Wanna chat? :point_right: connect with me on <a href="https://www.linkedin.com/in/kylie-yin/">LinkedIn</a>
   </samp>
 </p>
