@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kylieyin/kylieyin/blob/main/6Tro9gA7c.gif" width="200px"/>
+  <img src="https://github.com/kylieyin/kylieyin/blob/main/6Tro9gA7c.gif" width="150px"/>
   <br><br>
   <samp>
     Hi! I'm Kylie <img src="https://github.com/kylieyin/kylieyin/assets/122772682/d942f61f-4376-45d1-81b7-4bd7d1f7f009" width="25" height="25"/>
