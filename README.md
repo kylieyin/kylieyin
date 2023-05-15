@@ -4,7 +4,7 @@
   <samp>
     :wave: Hi! I'm Kylie <img src="https://github.com/kylieyin/kylieyin/assets/122772682/d942f61f-4376-45d1-81b7-4bd7d1f7f009" width="25" height="25"/>
     <br>thanks for stopping by
-      <br>currently exploring web dev<br><br>and UX / UI design
+      <br>currently exploring web dev<br>and UX / UI design
     <br>currently learning JS and C#<br><br>
     <br><br>:coffee: Wanna chat? :point_right: connect with me on <a href="https://www.linkedin.com/in/kylie-yin/">LinkedIn</a>
   </samp>
